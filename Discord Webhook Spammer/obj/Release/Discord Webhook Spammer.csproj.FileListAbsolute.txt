@@ -1,0 +1,10 @@
+C:\Users\jaden\source\repos\Discord Webhook Spammer\Discord Webhook Spammer\bin\Release\Discord Webhook Spammer.exe.config
+C:\Users\jaden\source\repos\Discord Webhook Spammer\Discord Webhook Spammer\bin\Release\Discord Webhook Spammer.exe
+C:\Users\jaden\source\repos\Discord Webhook Spammer\Discord Webhook Spammer\bin\Release\Discord Webhook Spammer.pdb
+C:\Users\jaden\source\repos\Discord Webhook Spammer\Discord Webhook Spammer\obj\Release\Discord Webhook Spammer.csprojAssemblyReference.cache
+C:\Users\jaden\source\repos\Discord Webhook Spammer\Discord Webhook Spammer\obj\Release\Discord_Webhook_Spammer.Form1.resources
+C:\Users\jaden\source\repos\Discord Webhook Spammer\Discord Webhook Spammer\obj\Release\Discord_Webhook_Spammer.Properties.Resources.resources
+C:\Users\jaden\source\repos\Discord Webhook Spammer\Discord Webhook Spammer\obj\Release\Discord Webhook Spammer.csproj.GenerateResource.cache
+C:\Users\jaden\source\repos\Discord Webhook Spammer\Discord Webhook Spammer\obj\Release\Discord Webhook Spammer.csproj.CoreCompileInputs.cache
+C:\Users\jaden\source\repos\Discord Webhook Spammer\Discord Webhook Spammer\obj\Release\Discord Webhook Spammer.exe
+C:\Users\jaden\source\repos\Discord Webhook Spammer\Discord Webhook Spammer\obj\Release\Discord Webhook Spammer.pdb
